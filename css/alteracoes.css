@@ -1,4 +1,18 @@
-.teste {
-    height: 400px;
-    background-image: url(https://areademulher.r7.com/wp-content/uploads/2020/06/cosmeticos-naturais-o-que-sao-e-a-diferenca-entre-naturais-e-organicos-6.png);
+@media screen and (max-whidth:767px){
+    .teste {
+        height: 400px;
+        background-image: url(https://areademulher.r7.com/wp-content/uploads/2020/06/cosmeticos-naturais-o-que-sao-e-a-diferenca-entre-naturais-e-organicos-6.png);
+    }
+    
+    .container{
+        padding-right: 6%;
+        padding-left: 6%;
+    }
+    
+    .main-section-parceiros {
+        
+    }
+    
 }
+
+
